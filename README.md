@@ -11,6 +11,8 @@
 - [Booking](https://github.com/alicangunduz/Learning-JS-Booking)
 - [Calculator](https://github.com/alicangunduz/Learning-JS-Calculator)
 
+## 🤔 Features I'm considering adding
+- Play on mobile devices
   
 ## 🛰️ Feedback
 

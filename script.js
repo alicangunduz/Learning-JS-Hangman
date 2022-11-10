@@ -1,3 +1,4 @@
+promt()
 const word_el = document.getElementById('word')
 const popup = document.getElementById('popup-container') 
 const message_el = document.getElementById('success-message') 
